@@ -1,5 +1,7 @@
 # alpine-npm-ionic-openssh
 
+![Docker Build Status](https://img.shields.io/docker/build/asatger/alpine-npm-ionic-openssh)
+
 Alpine image containing **npm**, **Ionic**, **OpenSSH** to build Ionic **www** applications and deploy to a remote server.
 
 ## How to use it ?
