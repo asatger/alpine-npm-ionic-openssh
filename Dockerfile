@@ -9,4 +9,5 @@ RUN apk update \
   && apk add --update nodejs nodejs-npm \
   && npm i -g ionic@${IONIC_VERSION} \
   && npm i -g @angular/cli
+  && npm i -g firebase-tools
 
